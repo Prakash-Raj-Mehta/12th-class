@@ -1,0 +1,495 @@
+
+
+
+p{
+   
+    width: auto;
+    
+   
+}
+i{
+    margin-right: 10px;
+    font-size: 30px;
+    color: rgb(193, 7, 109);
+}
+
+h1{
+    font-family: Algerian;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    font-size: 50px;
+    color: red;
+    position: sticky;
+            top: 0px;
+            z-index: 1;
+    
+    background-color: yellow;
+    /* align-items: center; */
+    /* justify-content: center; */
+    padding-bottom: 10px;
+    border: solid red 1px;
+}
+
+.blink-text {
+    margin-top: 30px;
+    height: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(163, 35, 118);
+    animation: blink 1s infinite;
+    margin-left: 20px;
+}
+h3{
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.new{
+    font-size: 12px;
+    color: blue;
+    
+}
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+.sn{
+    background-color: aqua;
+    border: solid red 1px;
+    text-align: center;
+}
+.mathsn{
+    width: 10px;
+   height: 500px;
+    /* border: solid red 1px; */
+}
+.sns{
+    
+   height: 3px;
+  font-size: 13px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+.r{
+    height: 50px;
+   
+}
+.snn{
+    height: 400px;
+    background-color: aqua;
+    /* border: solid red 1px; */
+    font-size: 14px;
+    text-align: center;
+   
+}
+.num{
+    height: 2px;
+    width: 5px;
+}
+.gen{
+    text-align: center;
+    height: 4px;
+    width: auto;
+    font-size: 12px;
+    color: rgb(2, 2, 84);
+}
+.gen:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: yellow;
+    font-weight: 500;
+}
+.hed{
+    text-align: center;
+    height: 4px;
+    width: auto;
+    color: red;
+    font-size: 12px;
+}
+.head{
+   background-color: aqua;
+    text-align: center;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid orange 1px;
+}
+.row{
+    height: 50px;
+    width: 330px;
+    
+}
+
+.row0{
+    height: 50px;
+    width: 250px;
+    
+}
+.row1{
+    height: 50px;
+    width: 260px;
+}
+.row2{
+    height: 50px;
+    width: 290px;
+   
+}
+.row3{
+    height: 50px;
+    width: 350px;
+    
+}
+.headLine{
+display: flex;
+flex-wrap: nowrap;
+height: 500px;
+width: 100%;
+justify-content: center;
+
+/* border: solid red 1px; */
+}
+a{
+  text-decoration: none;
+}
+
+.mathchhotu:hover{
+    background-color: pink;
+    height: 450px;
+   font-weight: 400;
+  
+   
+}
+
+.chemchhotu:hover{
+    background-color: pink;
+    height: 450px;
+    font-weight: 400;
+    
+}
+.phychhotu:hover{
+    background-color: pink;
+    height: 450px;
+    font-weight: 400;
+
+}
+.biochhotu:hover{
+    background-color: pink;
+    height: 450px;
+    font-weight: 400;
+}
+.engchhotu:hover{
+    background-color: pink;
+    height: 450px;
+    font-weight: 400;
+}
+
+
+
+
+
+.mathematic{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+border: solid red 1px;
+}
+.mathemathicss{
+    height: 500px;
+    width: 240px;
+    /* border: solid red 1px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.mathchhotu{
+    display: flex;
+    justify-content: center;
+
+}
+.biology{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: solid red 1px;
+}
+.biologys{
+    height: 500px;
+    width: 250px;
+    /* border: solid red 1px; */
+}
+.biochhotu{
+    display: flex;
+    justify-content: center;
+
+}
+.chemistry{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: solid red 1px;
+}
+.chemistrys{
+   
+    height: 500px;
+    width: 280px;
+    /* border: solid red 1px; */
+}
+.chemchhotu{
+    display: flex;
+    justify-content: center;
+
+}
+.physics{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+border: solid red 1px;
+}
+.physicss{
+    height: 500px;
+    width: 340px;
+    /* border: solid red 1px; */
+}
+.phychhotu{
+    display: flex;
+    justify-content: center;
+}
+.english{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+border: solid red 1px;
+}
+.englishs{
+    height: 500px;
+    width: 320px;
+    /* border: solid red 1px; */
+}
+.engchhotu{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+.action{
+    
+   width: 102.6%;
+    height: 20px;
+    font-size: 16px;
+   font-weight: 600;
+    text-align: center;
+    border: solid black 1px;
+    font-family: "Arial", sans-serif;
+background-color: rgb(68, 68, 65);
+color: azure;
+}
+.my{
+    height: 80px;
+    background-color: rgb(255, 249, 163);
+    width: 100%;
+    display: flex;
+    align-items: end;
+    
+    justify-content: space-between;
+    padding:0px 30px 10px 10px;
+    margin-top: 10px;
+    border: double black 1px;
+    padding-bottom: 5px;
+}
+
+
+img{
+    height: 70px;
+    width: 90px;
+    background-size: cover;
+    border: double black 1px;
+    margin-top: 100px;
+    
+}
+
+button{
+    height: 30px;
+    width: 150px;
+    justify-content: center;
+    border: double black 1px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-weight: 700;
+    background-color: bisque;
+}
+
+button:hover{
+    background-color: azure;
+    cursor: pointer;
+}
+
+.myb {
+    margin-top: 10px;
+   
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   justify-content: center;
+}
+
+
+
+
+
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .headLine {
+       display: flex;
+       justify-content: center;
+      flex: auto;
+       flex-wrap: wrap;
+      gap: 10px;
+        width: 100%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    h1 {
+        font-size: 20px;
+        position: sticky;
+            top: 1px;
+            z-index: 1;
+      
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .sn {
+        display: none;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    main {
+        z-index: -1;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .mathematic {
+        width: 90%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .biology {
+        width: 90%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .chemistry {
+        width: 90%;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .physics {
+        width: 90%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .english {
+        width: 90%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .biochhotu {
+        width: 100%;
+    }
+}@media (min-width: 376px) and (max-width: 414px) {
+    .engchhotu {
+        width: 100%;
+    }
+}@media (min-width: 376px) and (max-width: 414px) {
+    .mathchhotu{
+        width: 100%;
+    }
+}@media (min-width: 376px) and (max-width: 414px) {
+    .chemchhotu {
+        width: 100%;
+    }
+}@media (min-width: 376px) and (max-width: 414px) {
+    .phychhotu {
+        width: 100%;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .head {
+        width: 100%;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    .my {
+       display: flex;
+       height: 50px;
+       margin: none;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 414px) {
+    img {
+        height: 40px;
+        width: 50px;
+        background-size: cover;
+        border: double black 1px;
+        margin-top: 100px;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .action {
+        width: 100%;
+        height: 10px;
+        font-size: 10px;
+       font-weight: 600;
+        text-align: center;
+        border: solid black 1px;
+        font-family: "Arial", sans-serif;
+    background-color: rgb(68, 68, 65);
+    color: azure;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    footer {
+       margin-top: 1900px;
+       display: flex;
+       flex-wrap: wrap;
+       align-items: bottom;
+       justify-content: center;
+    }
+}
+@media (min-width: 376px) and (max-width: 414px) {
+    .myb {
+        margin-top: 410px;
+       
+       display: flex;
+       flex-wrap: nowrap;
+       align-items: center;
+       justify-content: center;
+    }
+}
